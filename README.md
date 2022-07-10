@@ -9,7 +9,7 @@ deep learning 정리
 
 AR
 
-- Forecasting LNG process with the kernel vector autoregressive model paper review
+- Forecasting LNG prices with the kernel vector autoregressive model paper review
 
 ---
 
