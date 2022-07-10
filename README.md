@@ -7,5 +7,12 @@ deep learning 정리
 
 ---
 
+AR
+
+- Forecasting LNG process with the kernel vector autoregressive model paper review
+
+---
+
 CNN
+
 - ImageNet Classification with Deep Convolutional Neural Networks paper review
