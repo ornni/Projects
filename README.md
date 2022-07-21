@@ -16,3 +16,9 @@ AR
 CNN
 
 - ImageNet Classification with Deep Convolutional Neural Networks paper review
+
+---
+
+Seq2Seq
+
+- Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation paper review
