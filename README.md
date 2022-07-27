@@ -19,6 +19,12 @@ CNN
 
 ---
 
+GRU
+
+- GRU project(Electric Product)
+
+---
+
 Seq2Seq
 
 - Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation paper review
