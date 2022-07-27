@@ -21,7 +21,7 @@ CNN
 
 GRU
 
-- GRU project(Electric Product)
+- GRU project (Electric Product)
 
 ---
 
