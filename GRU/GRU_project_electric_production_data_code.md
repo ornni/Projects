@@ -569,30 +569,6 @@ x_test=x_test.reshape(98, 4, 1)
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    AttributeError                            Traceback (most recent call last)
-
-    c:\Users\user\Desktop\python\time_series_data.py in <module>
-          <a href='file:///c%3A/Users/user/Desktop/python/time_series_data.py?line=88'>89</a> # %%
-          <a href='file:///c%3A/Users/user/Desktop/python/time_series_data.py?line=89'>90</a> # feature값 추가
-    ----> <a href='file:///c%3A/Users/user/Desktop/python/time_series_data.py?line=90'>91</a> x_train=x_train.reshape(196, 4, 1)
-          <a href='file:///c%3A/Users/user/Desktop/python/time_series_data.py?line=91'>92</a> x_valid=x_valid.reshape(99, 4, 1)
-          <a href='file:///c%3A/Users/user/Desktop/python/time_series_data.py?line=92'>93</a> x_test=x_test.reshape(98, 4, 1)
-    
-
-    c:\Users\user\anaconda3\lib\site-packages\pandas\core\generic.py in __getattr__(self, name)
-       5485         ):
-       5486             return self[name]
-    -> 5487         return object.__getattribute__(self, name)
-       5488 
-       5489     def __setattr__(self, name: str, value) -> None:
-    
-
-    AttributeError: 'DataFrame' object has no attribute 'reshape'
-
-
-
 ```python
 # modeling
 from tensorflow.keras import Sequential
