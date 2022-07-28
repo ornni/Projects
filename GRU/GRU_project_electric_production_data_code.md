@@ -21,7 +21,7 @@ plt.show()
 
 
     
-![png](output_0_0.png)
+![2-1](https://github.com/ornni/DL_algorithm/blob/main/GRU/image/GRU_project_2-1.png?raw=true)
     
 
 
@@ -439,7 +439,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![3-1](https://github.com/ornni/DL_algorithm/blob/main/GRU/image/GRU_project_3-1.png?raw=true)
     
 
 
@@ -820,7 +820,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![4-1](https://github.com/ornni/DL_algorithm/blob/main/GRU/image/GRU_project_4-1.png?raw=true)
     
 
 
@@ -946,7 +946,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![5-1](https://github.com/ornni/DL_algorithm/blob/main/GRU/image/GRU_project_5-1.png?raw=true)
     
 
 
