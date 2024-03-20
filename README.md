@@ -1,4 +1,4 @@
-# DL_algorithm
+# Projects
 Deep Learning Algorithm
 
 ---
